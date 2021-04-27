@@ -1,0 +1,21 @@
+body{
+    background-image: url("../images/pexels-kevin-ku-577585.jpg");
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+   
+}
+
+.border-image {
+    border-radius: 50%;
+    width: 160px;
+    border: solid white 5px;
+  }
+
+  h4,h2{
+      color:white;
+  }
+
+  .vertical{
+    margin-top: 15%;
+	
+  }
